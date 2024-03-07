@@ -1,0 +1,1 @@
+create table if not exists  hospital(pat_id integer PRIMARY key,pat_name text not null,pat_desc text not null,pat_date text not null,pat_phno text not null);
